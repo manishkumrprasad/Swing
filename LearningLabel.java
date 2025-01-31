@@ -38,7 +38,7 @@ public class LearningLabel {
         //label.setBounds(0, 0 , 400 , 400); //Set x,y Position Within Frame As Well As Dimensions
         //frame.setLayout(null);
 
-        frame.pack();
+        frame.pack();//Automatically Resize A Frame To Fit Its Components.
 
     }
 }
